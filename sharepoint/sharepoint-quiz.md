@@ -242,7 +242,7 @@
 
 - [ ] Create a custom app.
 - [ ] Change object permissions.
-- [ ] Use a group of site columns.
+- [x] Use a group of site columns.
 - [ ] Change user permissions for lists.
 
 #### Q31. How can you stop users from editing list items that other members created?
